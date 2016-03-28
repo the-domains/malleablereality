@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[malleablereality]]></title>
         <description><![CDATA[malleablereality]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/malleablereality/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 28 Mar 2016 22:04:43 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 28 Mar 2016 22:10:37 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/malleablereality/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f1c2a5a9-0609-4263-b58c-f88931606415.jpg">]]></description>
+            <link>https://thegrid.ai/malleablereality/bc2b3acc-5e25-4161-9c61-f8fe2dd94418/index.html</link>
+            <guid isPermaLink="false">bc2b3acc-5e25-4161-9c61-f8fe2dd94418</guid>
+            <pubDate>Mon, 28 Mar 2016 22:10:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/12f4cb4b-6fe2-43bc-923b-3194bcdef507.jpg">]]></description>
-            <link>undefined825704ff-bc9f-40a3-b39a-ce1f70246af6/index.html</link>
+            <link>https://thegrid.ai/malleablereality/825704ff-bc9f-40a3-b39a-ce1f70246af6/index.html</link>
             <guid isPermaLink="false">825704ff-bc9f-40a3-b39a-ce1f70246af6</guid>
             <pubDate>Mon, 28 Mar 2016 22:04:33 GMT</pubDate>
         </item>
